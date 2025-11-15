@@ -1,4 +1,4 @@
-# Aniyomi-builder
+# Aniyomi-Animetail-builder
 quick preview build for testing
 
 
