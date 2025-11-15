@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/aniyomiorg/aniyomi"
+        default: "https://github.com/Animetailapp/Animetail"
       branch:
         description: "Branch name"
         required: false
